@@ -9,7 +9,7 @@ In its current state it only supports a simple listing of methods on the form
 
 The program is executed by running
 
-   lein run <wadl-filenames>
+    lein run <wadl-filenames>
 
 ## License
 
